@@ -68,7 +68,7 @@ const Create = () => {
 
   return (
     <Fragment>
-      <Header />
+      
       <div className="centerDiv">
         <form onSubmit={onFileUpload}>
           <label htmlFor="fname">Name</label>
